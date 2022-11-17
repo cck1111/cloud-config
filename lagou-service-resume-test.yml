@@ -35,6 +35,6 @@ eureka:
     lease-expiration-duration-in-seconds: 90
 
 test:
-  value: helloworld!helloworld!helloworld
+  value: helloworld!helloworl
 
 
